@@ -1,5 +1,10 @@
 const cardsElement = document.querySelector('.cards');
 
+const copyToClipboard = (text) => {
+  navigator.clipboard.writeText(text);
+  alert('Tautan telah disalin: ' + text);
+};
+
 fetch('./data/links.json')
   .then((response) => response.json())
   .then((data) => {
@@ -7,8 +12,8 @@ fetch('./data/links.json')
       const cardElement = `
          <div class="card">
           <div class="card__header">
-            <a href="${link?.url}" class="card__header__title">${link?.title}</a>
-            <button class="card__header__button">
+            <a href="${link?.url}" rel="external" class="card__header__title">${link?.title}</a>
+            <button class="card__header__button" >
               <svg
                 class="card__header__button__icon"
                 fill="none"
@@ -32,5 +37,16 @@ fetch('./data/links.json')
       `;
       cardsElement.innerHTML += cardElement;
     });
+    return data?.links;
+  })
+  .then((links) => {
+    const copyButtonElements = document.querySelectorAll(
+      '.card__header__button'
+    );
+    copyButtonElements.forEach((button, index) =>
+      button.addEventListener('click', () => {
+        copyToClipboard(links[index]?.url);
+      })
+    );
   })
   .catch((error) => console.log(error));
