@@ -1,10 +1,15 @@
 const cardsElement = document.querySelector('.cards');
 
 const copyToClipboard = (text) => {
-  navigator.clipboard.writeText(text);
-  alert('Tautan telah disalin: ' + text);
+  navigator.clipboard.writeText(text).then(
+    function () {
+      alert('Tautan telah disalin: ' + text);
+    },
+    function () {
+      alert('Gagal menyalin tautan');
+    }
+  );
 };
-
 fetch('./data/links.json')
   .then((response) => response.json())
   .then((data) => {
