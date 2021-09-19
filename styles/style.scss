@@ -1,5 +1,6 @@
 :root {
   --c-primary: #4b90e2;
+  --c-primary-light: #f1f7fe;
   --c-secondary: #ff7c6f;
   --c-secondary-light: #ffedeb;
   --c-text: #72767c;
@@ -52,9 +53,9 @@ body {
 }
 
 .card {
-  padding: 12px 16px;
+  padding: 1rem 1.2rem;
   box-shadow: 0px 0px 24px rgba(50, 142, 255, 0.12);
-  border-radius: 8px;
+  border-radius: 20px;
   display: grid;
   grid-gap: 8px;
 }
@@ -102,4 +103,20 @@ body {
   font-size: 14px;
   line-height: 22px;
   color: var(--c-text);
+}
+
+.card__tag {
+  display: flex;
+  list-style: none;
+}
+
+.card__tag__item {
+  background-color: var(--c-primary-light);
+  color: var(--c-primary);
+  padding: 4px 12px;
+  margin-right: 8px;
+  border-radius: 20px;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 1px;
 }
