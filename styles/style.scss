@@ -24,11 +24,11 @@ body {
 
 .section-title {
   font-weight: bold;
-  font-size: 24px;
+  font-size: 20px;
   line-height: 36px;
   letter-spacing: 0.08em;
   color: var(--c-secondary);
-  width: min-content;
+  width: fit-content;
   position: relative;
   text-transform: uppercase;
 
@@ -39,8 +39,8 @@ body {
     width: 100%;
     background-color: var(--c-secondary-light);
     position: absolute;
-    top: -2px;
-    left: -20px;
+    top: -0px;
+    left: -10px;
     z-index: -1;
     border-radius: 10px;
   }
