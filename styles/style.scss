@@ -2,6 +2,7 @@
   --c-primary: #4b90e2;
   --c-secondary: #ff7c6f;
   --c-secondary-light: #ffedeb;
+  --c-text: #72767c;
 }
 
 * {
@@ -86,10 +87,19 @@ body {
   color: var(--c-primary);
 }
 
+.card__input {
+  color: var(--c-text);
+  border: none;
+  font-size: 15px;
+
+  &:focus {
+    outline: none;
+  }
+}
+
 .card__body {
   font-weight: 500;
   font-size: 15px;
   line-height: 22px;
-
-  color: #8393a5;
+  color: var(--c-text);
 }
