@@ -1,18 +1,5 @@
-const CONTRACT_SPAN_DAYS = 15;
-const TODAY = new Date();
+import { getExpiration } from './helpers/date.js';
 const cardsElement = document.querySelector('.cards');
-
-const addDays = (date, days) => {
-  let result = new Date(date);
-  result.setDate(result.getDate() + days);
-  return result;
-};
-
-const getExpiration = (published_date) => {
-  const publishedDate = new Date(published_date);
-  const expiredDate = addDays(publishedDate, CONTRACT_SPAN_DAYS);
-  return TODAY.getTime() > expiredDate.getTime();
-};
 
 const showInput = (index) => {
   const inputElement = document.querySelectorAll('.card__input')[index];
