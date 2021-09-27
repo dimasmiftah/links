@@ -1,18 +1,63 @@
 {
   "links": [
     {
+      "title": "Daftar Pelatihan Gratis Bersertifikat",
+      "url": "https://www.camp404.com/reg",
+      "body": "CAMP404 mengadakan 14 pelatihan gratis berbagai topik, mulai dari programming sampai non-programming.",
+      "tag": ["FREE", "COURSE"],
+      "published_date": "2021-09-27"
+    },
+    {
+      "title": "Beli Hosting di Niagahoster",
       "url": "https://bit.ly/dimasmiftahNH",
-      "title": "Niagahoster",
       "body": "Beli hosting up to 75% discount (gratis domain). Pakai kode DIMASMIFTAH untuk +10% discount.",
       "tag": ["PRODUCT", "HOSTING"],
       "published_date": "2021-09-21"
     },
     {
+      "title": "Daftar Hackathon NEXGEN Challenge",
       "url": "https://www.kejarmimpi.id/nexgenchallenge",
-      "title": "NEXGEN Challenge",
       "body": "Program hackathon dari CIMB Niaga dengan total hadiah 100 juta. Periode pendaftaran 27 aug - 30 sept 2021.",
       "tag": ["EVENT", "COMPETITION"],
       "published_date": "2021-09-19"
+    }
+  ],
+
+  "class": [
+    {
+      "title": "Belajar Website",
+      "url": "https://kelasjagoan.com/s/m5tab5v",
+      "body": "Step by step membuat website yang bisa menghasilkan passive income secara konsisten.",
+      "tag": ["COURSE", "WEBSITE"],
+      "published_date": "2022-09-27"
+    },
+    {
+      "title": "Belajar Landingpage",
+      "url": "https://kelasjagoan.com/s/al9v4li",
+      "body": "Belajar step by step membuat landing page profesional dari dasar hingga mahir!",
+      "tag": ["COURSE", "WEBSITE"],
+      "published_date": "2022-09-27"
+    },
+    {
+      "title": "Belajar Copywriting",
+      "url": "https://kelasjagoan.com/s/zjb4y5j",
+      "body": "Bongkar tuntas ilmu copywriting; seni meningkatkan penjualan melalui media tulisan.",
+      "tag": ["COURSE", "COPYWRITING"],
+      "published_date": "2022-09-27"
+    },
+    {
+      "title": "Belajar Canva",
+      "url": "https://member.zuper.id/aff/go/dimasmiftah?i=129",
+      "body": "Bongkar rahasia jago desain konten dalam 24 jam.",
+      "tag": ["COURSE", "DESIGN"],
+      "published_date": "2022-09-27"
+    },
+    {
+      "title": "Belajar Affiliate",
+      "url": "https://member.zuper.id/aff/go/dimasmiftah?i=117",
+      "body": "Saatnya kamu hasilkan income dengan SANTAI, tanpa ribet nyetok dan kirim barang.",
+      "tag": ["COURSE", "MARKETING"],
+      "published_date": "2022-09-27"
     }
   ]
 }
