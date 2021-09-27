@@ -1,7 +1,7 @@
 import { getExpiration } from './helpers/date.js';
 const cardsElement = document.querySelector('.cards');
 
-const showInput = (index) => {
+const showInputComponent = (index) => {
   const inputElement = document.querySelectorAll('.card__input')[index];
   inputElement.hidden = inputElement.hidden ? false : true;
   inputElement.select();
@@ -12,7 +12,7 @@ const addClickListener = () => {
   const copyButtonElements = document.querySelectorAll('.card__header__button');
   copyButtonElements.forEach((button, index) =>
     button.addEventListener('click', () => {
-      showInput(index);
+      showInputComponent(index);
     })
   );
 };
