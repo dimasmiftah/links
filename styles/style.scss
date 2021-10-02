@@ -3,7 +3,7 @@
   --c-primary-light: #f1f7fe;
   --c-secondary: #ff7c6f;
   --c-secondary-light: #ffedeb;
-  --c-text: #72767c;
+  --c-text: #ffffff;
 }
 
 * {
@@ -16,6 +16,10 @@ body {
   max-width: 411px;
   margin: 0 auto;
   padding: 56px 34px;
+  background-color: #1f1d2b;
+  background-image: url(https://www.dwinawan.com/new_bookmark_assets/bookmarkgradient.svg);
+  background-repeat: no-repeat;
+  background-position: top center;
 }
 
 .section {
@@ -25,26 +29,12 @@ body {
 
 .section-title {
   font-weight: bold;
-  font-size: 20px;
-  line-height: 36px;
+  font-size: 24px;
   letter-spacing: 0.08em;
-  color: var(--c-secondary);
+  color: var(--c-text);
   width: fit-content;
   position: relative;
   text-transform: uppercase;
-
-  &::after {
-    content: '';
-    display: block;
-    height: 18px;
-    width: 100%;
-    background-color: var(--c-secondary-light);
-    position: absolute;
-    top: -0px;
-    left: -10px;
-    z-index: -1;
-    border-radius: 10px;
-  }
 }
 
 .cards {
@@ -54,10 +44,9 @@ body {
 
 .card {
   padding: 1rem 1.2rem;
-  box-shadow: 0px 0px 24px rgba(50, 142, 255, 0.12);
-  border-radius: 20px;
   display: grid;
   grid-gap: 8px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
 }
 
 .card__header {
@@ -69,9 +58,9 @@ body {
 
 .card__header__title {
   font-weight: bold;
-  font-size: 16px;
-  line-height: 27px;
-  color: var(--c-primary);
+  font-size: 18px;
+  letter-spacing: 0.3px;
+  color: var(--c-text);
   text-decoration: none;
 }
 
@@ -80,6 +69,7 @@ body {
   height: fit-content;
   border: none;
   background: none;
+  cursor: pointer;
 }
 
 .card__header__button__icon {
@@ -92,6 +82,7 @@ body {
   color: var(--c-text);
   border: none;
   font-size: 15px;
+  background-color: transparent;
 
   &:focus {
     outline: none;
@@ -99,10 +90,10 @@ body {
 }
 
 .card__body {
-  font-weight: 500;
+  font-weight: 400;
   font-size: 14px;
-  line-height: 22px;
   color: var(--c-text);
+  opacity: 0.6;
 }
 
 .card__tag {
@@ -111,12 +102,13 @@ body {
 }
 
 .card__tag__item {
-  background-color: var(--c-primary-light);
-  color: var(--c-primary);
-  padding: 4px 12px;
+  background-color: var(--c-primary);
+  color: var(--c-text);
+  padding: 2px 8px;
   margin-right: 8px;
   border-radius: 20px;
   font-size: 12px;
   font-weight: 400;
   letter-spacing: 1px;
+  text-transform: uppercase;
 }
