@@ -1,5 +1,4 @@
 import { getExpiration } from './helpers/date.js';
-const cardsElement = document.querySelector('.cards');
 
 const showInputComponent = (index) => {
   const inputElement = document.querySelectorAll('.card__input')[index];
@@ -17,7 +16,10 @@ const addClickListener = () => {
   );
 };
 
-const addCardComponent = (url, title, body, tag, published_date) => {
+const addCardComponent = (
+  { url, title, body, tag, published_date },
+  container
+) => {
   const isExpired = getExpiration(published_date);
   const cardElement = isExpired
     ? ''
@@ -40,15 +42,19 @@ const addCardComponent = (url, title, body, tag, published_date) => {
           </ul>
         </div>
       `;
-  cardsElement.innerHTML += cardElement;
+  container.innerHTML += cardElement;
 };
 
-fetch('./data/links.json')
+fetch('./data/urls.json')
   .then((response) => response.json())
-  .then(({ links }) => {
-    links?.map(({ url, title, body, tag, published_date }) => {
-      addCardComponent(url, title, body, tag, published_date);
-    });
+  .then(({ brands, classes, support }) => {
+    const brandsContainer = document.querySelector('.brands');
+    const classesContainer = document.querySelector('.classes');
+    const supportContainer = document.querySelector('.support');
+
+    brands?.map((item) => addCardComponent(item, brandsContainer));
+    classes?.map((item) => addCardComponent(item, classesContainer));
+    support?.map((item) => addCardComponent(item, supportContainer));
   })
   .then(() => {
     addClickListener();

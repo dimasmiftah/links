@@ -1,5 +1,5 @@
 {
-  "links": [
+  "brands": [
     {
       "title": "Beli Hosting di Niagahoster",
       "url": "https://bit.ly/dimasmiftah5",
@@ -23,7 +23,7 @@
     }
   ],
 
-  "class": [
+  "classes": [
     {
       "title": "Belajar Website",
       "url": "https://kelasjagoan.com/s/m5tab5v",
@@ -32,32 +32,37 @@
       "published_date": "2022-09-27"
     },
     {
-      "title": "Belajar Landingpage",
+      "title": "Belajar Landing Page",
       "url": "https://kelasjagoan.com/s/al9v4li",
       "body": "Belajar step by step membuat landing page profesional dari dasar hingga mahir!",
-      "tag": ["COURSE", "WEBSITE"],
-      "published_date": "2022-09-27"
+      "tag": ["COURSE", "WEBSITE"]
     },
     {
       "title": "Belajar Copywriting",
       "url": "https://kelasjagoan.com/s/zjb4y5j",
       "body": "Bongkar tuntas ilmu copywriting; seni meningkatkan penjualan melalui media tulisan.",
-      "tag": ["COURSE", "COPYWRITING"],
-      "published_date": "2022-09-27"
+      "tag": ["COURSE", "COPYWRITING"]
     },
     {
       "title": "Belajar Canva",
       "url": "https://member.zuper.id/aff/go/dimasmiftah?i=129",
       "body": "Bongkar rahasia jago desain konten dalam 24 jam.",
-      "tag": ["COURSE", "DESIGN"],
-      "published_date": "2022-09-27"
+      "tag": ["COURSE", "DESIGN"]
     },
     {
       "title": "Belajar Affiliate",
       "url": "https://member.zuper.id/aff/go/dimasmiftah?i=117",
       "body": "Saatnya kamu hasilkan income dengan SANTAI, tanpa ribet nyetok dan kirim barang.",
-      "tag": ["COURSE", "MARKETING"],
-      "published_date": "2022-09-27"
+      "tag": ["COURSE", "MARKETING"]
+    }
+  ],
+
+  "support": [
+    {
+      "title": "Makasih udah support!",
+      "url": "https://saweria.co/dimasmiftah",
+      "body": "Traktir dimas beli kopi.",
+      "tag": ["SUPPORT", "TRAKTIR"]
     }
   ]
 }
