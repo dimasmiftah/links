@@ -20,7 +20,14 @@
       "body": "Program hackathon dari CIMB Niaga dengan total hadiah 100 juta. Periode pendaftaran 27 aug - 30 sept 2021.",
       "tag": ["EVENT", "COMPETITION"],
       "published_date": "2021-09-19"
-    }
+    },
+    {
+      "title": "LED Scroller",
+      "url": "https://led.dimasmiftah.me",
+      "body": "Bikin tulisan berjalan ala-ala konter hape.",
+      "tag": ["PROJECT", "WEBSITE"],
+      "published_date": "2022-12-12"
+    },
   ],
 
   "classes": [
