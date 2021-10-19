@@ -60,3 +60,5 @@ fetch('./data/urls.json')
     addClickListener();
   })
   .catch((error) => console.log(error));
+
+console.log('%c Background by Dwinawan ', 'background: #222; color: #bada55');
