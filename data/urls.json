@@ -1,6 +1,13 @@
 {
   "brands": [
     {
+      "title": "Daftar CAMP404 Bootcamp Batch 10",
+      "url": "https://www.camp404.com/reg",
+      "body": "Bootcamp programming dan non-programming dengan fasilitas lengkap, gratis!",
+      "tag": ["COURSE", "FREE"],
+      "published_date": "2022-01-18"
+    },
+    {
       "title": "Beli Hosting di Niagahoster",
       "url": "https://bit.ly/dimasmiftahNH01",
       "body": "Beli hosting dengan data center terbaik, up to 80% discount (gratis domain). Pakai kode DIMASMIFTAH untuk +10% discount.",
@@ -34,13 +41,6 @@
       "body": "Kickstart your tech career with Bangkit! Bangkit is one of the Kampus Merdeka learning models designed through a collaboration with Google, the Indonesian Ministry of Education and Culture, GoTo, and Traveloka.",
       "tag": ["COURSE", "FREE"],
       "published_date": "2021-11-29"
-    },
-    {
-      "title": "Daftar CAMP404 Bootcamp Batch 9",
-      "url": "https://www.camp404.com/reg",
-      "body": "Bootcamp programming dan non-programming dengan fasilitas lengkap, gratis!",
-      "tag": ["COURSE", "FREE"],
-      "published_date": "2021-11-14"
     },
     {
       "title": "Super 10.10 Jagoan Hosting",
