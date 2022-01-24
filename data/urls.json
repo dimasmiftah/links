@@ -1,6 +1,13 @@
 {
   "brands": [
     {
+      "title": "Webinar Grand Opening Bootcamp CAMP404",
+      "url": "https://www.temanacara.com/B10",
+      "body": "Daftar webinar dari CAMP404 dengan judul Industrial Digital Transformation.",
+      "tag": ["WEBINAR", "FREEMIUM"],
+      "published_date": "2022-01-24"
+    },
+    {
       "title": "Daftar CAMP404 Bootcamp Batch 10",
       "url": "https://www.camp404.com/reg",
       "body": "Bootcamp programming dan non-programming dengan fasilitas lengkap, gratis!",
