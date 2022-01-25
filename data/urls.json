@@ -1,6 +1,13 @@
 {
   "brands": [
     {
+      "title": "Beli Hosting di Niagahoster",
+      "url": "https://bit.ly/dimasmiftahNH02",
+      "body": "Beli hosting dengan data center terbaik, up to 80% discount (gratis domain). Pakai kode DIMASMIFTAH untuk +10% discount.",
+      "tag": ["PRODUCT", "HOSTING"],
+      "published_date": "2022-01-16"
+    },
+    {
       "title": "Webinar Grand Opening Bootcamp CAMP404",
       "url": "https://www.temanacara.com/B10",
       "body": "Daftar webinar dari CAMP404 dengan judul Industrial Digital Transformation.",
@@ -13,13 +20,6 @@
       "body": "Bootcamp programming dan non-programming dengan fasilitas lengkap, gratis!",
       "tag": ["COURSE", "FREE"],
       "published_date": "2022-01-18"
-    },
-    {
-      "title": "Beli Hosting di Niagahoster",
-      "url": "https://bit.ly/dimasmiftahNH01",
-      "body": "Beli hosting dengan data center terbaik, up to 80% discount (gratis domain). Pakai kode DIMASMIFTAH untuk +10% discount.",
-      "tag": ["PRODUCT", "HOSTING"],
-      "published_date": "2022-01-16"
     },
     {
       "title": "Download Aplikasi Binar Academy",
