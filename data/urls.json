@@ -1,6 +1,13 @@
 {
   "brands": [
     {
+      "title": "Registrasi UNIKOM CodeLabs",
+      "url": "https://codelabs.unikom.ac.id/register/",
+      "body": "Build Society With Technology",
+      "tag": ["COMMUNITY", "RECRUITMENT"],
+      "published_date": "2022-02-19"
+    },
+    {
       "title": "Beli Hosting di Niagahoster",
       "url": "https://bit.ly/dimasmiftahNH02",
       "body": "Beli hosting dengan data center terbaik, up to 80% discount (gratis domain). Pakai kode DIMASMIFTAH untuk +10% discount.",
