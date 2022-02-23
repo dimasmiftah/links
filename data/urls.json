@@ -1,6 +1,13 @@
 {
   "brands": [
     {
+      "title": "Daftar CAMP404 Bootcamp Batch 11",
+      "url": "https://www.camp404.com/reg",
+      "body": "Bootcamp programming dan non-programming dengan fasilitas lengkap, gratis!",
+      "tag": ["COURSE", "FREE"],
+      "published_date": "2022-02-23"
+    },
+    {
       "title": "Registrasi UNIKOM CodeLabs",
       "url": "https://codelabs.unikom.ac.id/register/",
       "body": "Build Society With Technology",
@@ -20,13 +27,6 @@
       "body": "Daftar webinar dari CAMP404 dengan judul Industrial Digital Transformation.",
       "tag": ["WEBINAR", "FREEMIUM"],
       "published_date": "2022-01-24"
-    },
-    {
-      "title": "Daftar CAMP404 Bootcamp Batch 10",
-      "url": "https://www.camp404.com/reg",
-      "body": "Bootcamp programming dan non-programming dengan fasilitas lengkap, gratis!",
-      "tag": ["COURSE", "FREE"],
-      "published_date": "2022-01-18"
     },
     {
       "title": "Download Aplikasi Binar Academy",
