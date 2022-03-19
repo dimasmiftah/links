@@ -1,6 +1,20 @@
 {
   "brands": [
     {
+      "title": "Daftar Lomba Cerdas Cermat 2022",
+      "url": "http://bit.ly/DAFTARLCC2",
+      "body": "Lomba dilaksanakan secara online dengan hadiah utama liburan ke Singapore, Malaysia, dan Thailand.",
+      "tag": ["EVENT", "COMPETITION"],
+      "published_date": "2022-03-19"
+    },
+    {
+      "title": "Panduan Lomba Cerdas Cermat 2022",
+      "url": "http://bit.ly/GUIDEBOOKLCC2",
+      "body": "Terbuka untuk umum tanpa ada batasan pendidikan. Peserta harus berusia 12-35 tahun.",
+      "tag": ["EVENT", "COMPETITION"],
+      "published_date": "2022-03-19"
+    },
+    {
       "title": "Download Aplikasi BinarGo!",
       "url": "https://j5478.app.link/binargodimasmiftah",
       "body": "Solusi asyik belajar mandiri, dengan materi praktis yang disusun sesuai kasus nyata di Indonesia.",
