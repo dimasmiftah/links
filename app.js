@@ -1,6 +1,16 @@
 import { getExpiration } from './helpers/date.js';
 const htmlBody = document.querySelector('#body');
 
+const liveSearch = () => {
+  let cards = document.querySelectorAll('.card');
+  let searchQuery = document.getElementById('searchbox').value;
+  cards.forEach((item) => {
+    item.textContent.toLowerCase().includes(searchQuery.toLowerCase())
+      ? item.classList.remove('is-hidden')
+      : item.classList.add('is-hidden');
+  });
+};
+
 const showInputComponent = (index) => {
   const inputElement = document.querySelectorAll('.card__input')[index];
   inputElement.hidden = inputElement.hidden ? false : true;
@@ -70,6 +80,21 @@ fetch('./data/urls.json')
     }
   })
   .then(() => addClickListener())
+  .then(() => {
+    // A little delay
+    let typingTimer;
+    let typeInterval = 500; // Half a second
+    let searchInput = document.getElementById('searchbox');
+
+    searchInput.addEventListener('keyup', () => {
+      clearTimeout(typingTimer);
+      typingTimer = setTimeout(liveSearch, typeInterval);
+    });
+    searchInput.addEventListener('search', () => {
+      clearTimeout(typingTimer);
+      typingTimer = setTimeout(liveSearch, typeInterval);
+    });
+  })
   .catch((error) => console.log(error));
 
 console.log('%c Background by Dwinawan ', 'background: #222; color: #bada55');
