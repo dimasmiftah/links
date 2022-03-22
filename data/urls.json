@@ -1,187 +1,196 @@
 {
-  "brands": [
-    {
-      "title": "Daftar Lomba Cerdas Cermat 2022",
-      "url": "http://bit.ly/DAFTARLCC2",
-      "body": "Lomba dilaksanakan secara online dengan hadiah utama liburan ke Singapore, Malaysia, dan Thailand.",
-      "tag": ["EVENT", "COMPETITION"],
-      "published_date": "2022-03-19"
-    },
-    {
-      "title": "Panduan Lomba Cerdas Cermat 2022",
-      "url": "http://bit.ly/GUIDEBOOKLCC2",
-      "body": "Terbuka untuk umum tanpa ada batasan pendidikan. Peserta harus berusia 12-35 tahun.",
-      "tag": ["EVENT", "COMPETITION"],
-      "published_date": "2022-03-19"
-    },
-    {
-      "title": "Download Aplikasi BinarGo!",
-      "url": "https://j5478.app.link/binargodimasmiftah",
-      "body": "Solusi asyik belajar mandiri, dengan materi praktis yang disusun sesuai kasus nyata di Indonesia.",
-      "tag": ["COURSE", "FREEMIUM"],
-      "published_date": "2022-03-02"
-    },
-    {
-      "title": "Cloud Hosting Terbaik Indonesia",
-      "url": "https://bit.ly/DimasCloudMax",
-      "body": "Beli Cloud Hosting dengan up to 75% discount (gratis domain). Pakai kode DIMASMIFTAH untuk +10% discount.",
-      "tag": ["PRODUCT", "HOSTING"],
-      "published_date": "2022-03-01"
-    },
-    {
-      "title": "Daftar CAMP404 Bootcamp Batch 11",
-      "url": "https://www.camp404.com/reg",
-      "body": "Bootcamp programming dan non-programming dengan fasilitas lengkap, gratis!",
-      "tag": ["COURSE", "FREE"],
-      "published_date": "2022-02-23"
-    },
-    {
-      "title": "Registrasi UNIKOM CodeLabs",
-      "url": "https://codelabs.unikom.ac.id/register/",
-      "body": "Build Society With Technology",
-      "tag": ["COMMUNITY", "RECRUITMENT"],
-      "published_date": "2022-02-19"
-    },
-    {
-      "title": "Beli Hosting di Niagahoster",
-      "url": "https://bit.ly/dimasmiftahNH02",
-      "body": "Beli hosting dengan data center terbaik, up to 80% discount (gratis domain). Pakai kode DIMASMIFTAH untuk +10% discount.",
-      "tag": ["PRODUCT", "HOSTING"],
-      "published_date": "2022-01-25"
-    },
-    {
-      "title": "Webinar Grand Opening Bootcamp CAMP404",
-      "url": "https://www.temanacara.com/B10",
-      "body": "Daftar webinar dari CAMP404 dengan judul Industrial Digital Transformation.",
-      "tag": ["WEBINAR", "FREEMIUM"],
-      "published_date": "2022-01-24"
-    },
-    {
-      "title": "Download Aplikasi Binar Academy",
-      "url": "https://j5478.app.link/dimasmiftahbinaracademy",
-      "body": "Buka halaman Silver Courses dan mulai pelajari skill yang wajib di era digital, gratis!",
-      "tag": ["COURSE", "FREE"],
-      "published_date": "2022-01-15"
-    },
-    {
-      "title": "ITBOX - Solusi Pintar Belajar Digital",
-      "url": "https://bit.ly/itbox-event",
-      "body": "Belajar Gratis dari pakarnya yang bakal ngasi tau kamu apa sih yang kamu perlu siapin buat punya karir impian.",
-      "tag": ["COURSE", "EVENT"],
-      "published_date": "2021-12-10"
-    },
-    {
-      "title": "Anniversary Promo #UnlimitEight Niagahoster",
-      "url": "https://bit.ly/DimasMiftahNHAnniv",
-      "body": "Banyak banget promo menarik dan discount gede-gedean sampe 80%. Bahkan ada bagi-bagi hosting dan domain gratis juga!",
-      "tag": ["PROMO", "HOSTING"],
-      "published_date": "2021-11-26"
-    },
-    {
-      "title": "Daftar Roadshow Bangkit 2022 UNIKOM",
-      "url": "https://bit.ly/roadshow-bangkit-unikom",
-      "body": "Kickstart your tech career with Bangkit! Bangkit is one of the Kampus Merdeka learning models designed through a collaboration with Google, the Indonesian Ministry of Education and Culture, GoTo, and Traveloka.",
-      "tag": ["COURSE", "FREE"],
-      "published_date": "2021-11-29"
-    },
-    {
-      "title": "Super 10.10 Jagoan Hosting",
-      "url": "https://rebrand.ly/superjagoan-giveaway",
-      "body": "Mulai kebutuhan untuk Go Online kamu dengan promo promo menarik dari Jagoan Hosting selama bulan Oktober. Lebih mudah dan lebih hemat. #MulaiBarengJH",
-      "tag": ["PRODUCT", "HOSTING"],
-      "published_date": "2021-10-22"
-    },
-    {
-      "title": "Daftar Pelatihan Gratis Bersertifikat",
-      "url": "https://www.camp404.com/reg",
-      "body": "CAMP404 mengadakan 14 pelatihan gratis berbagai topik, mulai dari programming sampai non-programming.",
-      "tag": ["FREE", "COURSE"],
-      "published_date": "2021-09-27"
-    },
-    {
-      "title": "Daftar Hackathon NEXGEN Challenge",
-      "url": "https://www.kejarmimpi.id/nexgenchallenge",
-      "body": "Program hackathon dari CIMB Niaga dengan total hadiah 100 juta. Periode pendaftaran 27 aug - 30 sept 2021.",
-      "tag": ["EVENT", "COMPETITION"],
-      "published_date": "2021-09-19"
-    },
-    {
-      "title": "Daddy (Dancing Buddy)",
-      "url": "https://editor.p5js.org/dimasmiftah/sketches/emGPDr2oq",
-      "body": "Contoh PoseNet pake p5.js buat temen joged.",
-      "tag": ["PROJECT", "MACHINE LEARNING"],
-      "published_date": "2022-12-12"
-    },
-    {
-      "title": "LED Scroller",
-      "url": "https://led.dimasmiftah.me?text=",
-      "body": "Bikin tulisan berjalan ala-ala konter hape.",
-      "tag": ["PROJECT", "WEBSITE"],
-      "published_date": "2022-12-12"
-    },
-    {
-      "title": "Tutorial Spotify Aesthetic",
-      "url": "https://dimasmiftah.notion.site/tutor-spotify-18e05824f4624e22a4354d9358efc65f",
-      "body": "Spotify Premium Pro Max Special Edition",
-      "tag": ["TUTORIAL", "APPS"],
-      "published_date": "2022-12-12"
-    },
-    {
-      "title": "Join Discord Kita",
-      "url": "https://discord.gg/cHpsN4CWhu",
-      "body": "Server buat hang-out/diskusi dan ketemu orang-orang baru.",
-      "tag": ["CHANNEL", "COMMUNITY"],
-      "published_date": "2022-12-12"
-    },
-    {
-      "title": "CV/Resume Resources",
-      "url": "https://dimasmiftah.notion.site/CV-Resume-Resources-b522af1e30fb4423a990ca1be2abcbbc",
-      "body": "CV/Resume yang aku pake buat daftar Magang Merdeka dan juga yang versi baru.",
-      "tag": ["RESUME", "RESOURCES"],
-      "published_date": "2025-12-04"
-    }
-  ],
+  "featured": {
+    "title": "Featured",
+    "urls": [
+      {
+        "title": "Daftar Lomba Cerdas Cermat 2022",
+        "url": "http://bit.ly/DAFTARLCC2",
+        "body": "Lomba dilaksanakan secara online dengan hadiah utama liburan ke Singapore, Malaysia, dan Thailand.",
+        "tag": ["EVENT", "COMPETITION"],
+        "published_date": "2022-03-19"
+      },
+      {
+        "title": "Panduan Lomba Cerdas Cermat 2022",
+        "url": "http://bit.ly/GUIDEBOOKLCC2",
+        "body": "Terbuka untuk umum tanpa ada batasan pendidikan. Peserta harus berusia 12-35 tahun.",
+        "tag": ["EVENT", "COMPETITION"],
+        "published_date": "2022-03-19"
+      },
+      {
+        "title": "Download Aplikasi BinarGo!",
+        "url": "https://j5478.app.link/binargodimasmiftah",
+        "body": "Solusi asyik belajar mandiri, dengan materi praktis yang disusun sesuai kasus nyata di Indonesia.",
+        "tag": ["COURSE", "FREEMIUM"],
+        "published_date": "2022-03-02"
+      },
+      {
+        "title": "Cloud Hosting Terbaik Indonesia",
+        "url": "https://bit.ly/DimasCloudMax",
+        "body": "Beli Cloud Hosting dengan up to 75% discount (gratis domain). Pakai kode DIMASMIFTAH untuk +10% discount.",
+        "tag": ["PRODUCT", "HOSTING"],
+        "published_date": "2022-03-01"
+      },
+      {
+        "title": "Daftar CAMP404 Bootcamp Batch 11",
+        "url": "https://www.camp404.com/reg",
+        "body": "Bootcamp programming dan non-programming dengan fasilitas lengkap, gratis!",
+        "tag": ["COURSE", "FREE"],
+        "published_date": "2022-02-23"
+      },
+      {
+        "title": "Registrasi UNIKOM CodeLabs",
+        "url": "https://codelabs.unikom.ac.id/register/",
+        "body": "Build Society With Technology",
+        "tag": ["COMMUNITY", "RECRUITMENT"],
+        "published_date": "2022-02-19"
+      },
+      {
+        "title": "Beli Hosting di Niagahoster",
+        "url": "https://bit.ly/dimasmiftahNH02",
+        "body": "Beli hosting dengan data center terbaik, up to 80% discount (gratis domain). Pakai kode DIMASMIFTAH untuk +10% discount.",
+        "tag": ["PRODUCT", "HOSTING"],
+        "published_date": "2022-01-25"
+      },
+      {
+        "title": "Webinar Grand Opening Bootcamp CAMP404",
+        "url": "https://www.temanacara.com/B10",
+        "body": "Daftar webinar dari CAMP404 dengan judul Industrial Digital Transformation.",
+        "tag": ["WEBINAR", "FREEMIUM"],
+        "published_date": "2022-01-24"
+      },
+      {
+        "title": "Download Aplikasi Binar Academy",
+        "url": "https://j5478.app.link/dimasmiftahbinaracademy",
+        "body": "Buka halaman Silver Courses dan mulai pelajari skill yang wajib di era digital, gratis!",
+        "tag": ["COURSE", "FREE"],
+        "published_date": "2022-01-15"
+      },
+      {
+        "title": "ITBOX - Solusi Pintar Belajar Digital",
+        "url": "https://bit.ly/itbox-event",
+        "body": "Belajar Gratis dari pakarnya yang bakal ngasi tau kamu apa sih yang kamu perlu siapin buat punya karir impian.",
+        "tag": ["COURSE", "EVENT"],
+        "published_date": "2021-12-10"
+      },
+      {
+        "title": "Anniversary Promo #UnlimitEight Niagahoster",
+        "url": "https://bit.ly/DimasMiftahNHAnniv",
+        "body": "Banyak banget promo menarik dan discount gede-gedean sampe 80%. Bahkan ada bagi-bagi hosting dan domain gratis juga!",
+        "tag": ["PROMO", "HOSTING"],
+        "published_date": "2021-11-26"
+      },
+      {
+        "title": "Daftar Roadshow Bangkit 2022 UNIKOM",
+        "url": "https://bit.ly/roadshow-bangkit-unikom",
+        "body": "Kickstart your tech career with Bangkit! Bangkit is one of the Kampus Merdeka learning models designed through a collaboration with Google, the Indonesian Ministry of Education and Culture, GoTo, and Traveloka.",
+        "tag": ["COURSE", "FREE"],
+        "published_date": "2021-11-29"
+      },
+      {
+        "title": "Super 10.10 Jagoan Hosting",
+        "url": "https://rebrand.ly/superjagoan-giveaway",
+        "body": "Mulai kebutuhan untuk Go Online kamu dengan promo promo menarik dari Jagoan Hosting selama bulan Oktober. Lebih mudah dan lebih hemat. #MulaiBarengJH",
+        "tag": ["PRODUCT", "HOSTING"],
+        "published_date": "2021-10-22"
+      },
+      {
+        "title": "Daftar Pelatihan Gratis Bersertifikat",
+        "url": "https://www.camp404.com/reg",
+        "body": "CAMP404 mengadakan 14 pelatihan gratis berbagai topik, mulai dari programming sampai non-programming.",
+        "tag": ["FREE", "COURSE"],
+        "published_date": "2021-09-27"
+      },
+      {
+        "title": "Daftar Hackathon NEXGEN Challenge",
+        "url": "https://www.kejarmimpi.id/nexgenchallenge",
+        "body": "Program hackathon dari CIMB Niaga dengan total hadiah 100 juta. Periode pendaftaran 27 aug - 30 sept 2021.",
+        "tag": ["EVENT", "COMPETITION"],
+        "published_date": "2021-09-19"
+      },
+      {
+        "title": "Daddy (Dancing Buddy)",
+        "url": "https://editor.p5js.org/dimasmiftah/sketches/emGPDr2oq",
+        "body": "Contoh PoseNet pake p5.js buat temen joged.",
+        "tag": ["PROJECT", "MACHINE LEARNING"],
+        "published_date": "2022-12-12"
+      },
+      {
+        "title": "LED Scroller",
+        "url": "https://led.dimasmiftah.me?text=",
+        "body": "Bikin tulisan berjalan ala-ala konter hape.",
+        "tag": ["PROJECT", "WEBSITE"],
+        "published_date": "2022-12-12"
+      },
+      {
+        "title": "Tutorial Spotify Aesthetic",
+        "url": "https://dimasmiftah.notion.site/tutor-spotify-18e05824f4624e22a4354d9358efc65f",
+        "body": "Spotify Premium Pro Max Special Edition",
+        "tag": ["TUTORIAL", "APPS"],
+        "published_date": "2022-12-12"
+      },
+      {
+        "title": "Join Discord Kita",
+        "url": "https://discord.gg/cHpsN4CWhu",
+        "body": "Server buat hang-out/diskusi dan ketemu orang-orang baru.",
+        "tag": ["CHANNEL", "COMMUNITY"],
+        "published_date": "2022-12-12"
+      },
+      {
+        "title": "CV/Resume Resources",
+        "url": "https://dimasmiftah.notion.site/CV-Resume-Resources-b522af1e30fb4423a990ca1be2abcbbc",
+        "body": "CV/Resume yang aku pake buat daftar Magang Merdeka dan juga yang versi baru.",
+        "tag": ["RESUME", "RESOURCES"],
+        "published_date": "2025-12-04"
+      }
+    ]
+  },
 
-  "classes": [
-    {
-      "title": "Belajar Website",
-      "url": "https://kelasjagoan.com/s/m5tab5v",
-      "body": "Step by step membuat website yang bisa menghasilkan passive income secara konsisten.",
-      "tag": ["COURSE", "WEBSITE"],
-      "published_date": "2022-09-27"
-    },
-    {
-      "title": "Belajar Landing Page",
-      "url": "https://kelasjagoan.com/s/al9v4li",
-      "body": "Belajar step by step membuat landing page profesional dari dasar hingga mahir!",
-      "tag": ["COURSE", "WEBSITE"]
-    },
-    {
-      "title": "Belajar Copywriting",
-      "url": "https://kelasjagoan.com/s/zjb4y5j",
-      "body": "Bongkar tuntas ilmu copywriting; seni meningkatkan penjualan melalui media tulisan.",
-      "tag": ["COURSE", "COPYWRITING"]
-    },
-    {
-      "title": "Belajar Canva",
-      "url": "https://member.zuper.id/aff/go/dimasmiftah?i=129",
-      "body": "Bongkar rahasia jago desain konten dalam 24 jam.",
-      "tag": ["COURSE", "DESIGN"]
-    },
-    {
-      "title": "Belajar Affiliate",
-      "url": "https://member.zuper.id/aff/go/dimasmiftah?i=117",
-      "body": "Saatnya kamu hasilkan income dengan SANTAI, tanpa ribet nyetok dan kirim barang.",
-      "tag": ["COURSE", "MARKETING"]
-    }
-  ],
+  "courses": {
+    "title": "Courses",
+    "urls": [
+      {
+        "title": "Belajar Website",
+        "url": "https://kelasjagoan.com/s/m5tab5v",
+        "body": "Step by step membuat website yang bisa menghasilkan passive income secara konsisten.",
+        "tag": ["COURSE", "WEBSITE"],
+        "published_date": "2022-09-27"
+      },
+      {
+        "title": "Belajar Landing Page",
+        "url": "https://kelasjagoan.com/s/al9v4li",
+        "body": "Belajar step by step membuat landing page profesional dari dasar hingga mahir!",
+        "tag": ["COURSE", "WEBSITE"]
+      },
+      {
+        "title": "Belajar Copywriting",
+        "url": "https://kelasjagoan.com/s/zjb4y5j",
+        "body": "Bongkar tuntas ilmu copywriting; seni meningkatkan penjualan melalui media tulisan.",
+        "tag": ["COURSE", "COPYWRITING"]
+      },
+      {
+        "title": "Belajar Canva",
+        "url": "https://member.zuper.id/aff/go/dimasmiftah?i=129",
+        "body": "Bongkar rahasia jago desain konten dalam 24 jam.",
+        "tag": ["COURSE", "DESIGN"]
+      },
+      {
+        "title": "Belajar Affiliate",
+        "url": "https://member.zuper.id/aff/go/dimasmiftah?i=117",
+        "body": "Saatnya kamu hasilkan income dengan SANTAI, tanpa ribet nyetok dan kirim barang.",
+        "tag": ["COURSE", "MARKETING"]
+      }
+    ]
+  },
 
-  "support": [
-    {
-      "title": "Makasih udah support!",
-      "url": "https://saweria.co/dimasmiftah",
-      "body": "Traktir dimas beli kopi.",
-      "tag": ["SUPPORT", "TRAKTIR"]
-    }
-  ]
+  "support": {
+    "title": "Support",
+    "urls": [
+      {
+        "title": "Makasih udah support!",
+        "url": "https://saweria.co/dimasmiftah",
+        "body": "Traktir dimas beli kopi.",
+        "tag": ["SUPPORT", "TRAKTIR"]
+      }
+    ]
+  }
 }

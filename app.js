@@ -1,4 +1,5 @@
 import { getExpiration } from './helpers/date.js';
+const htmlBody = document.querySelector('#body');
 
 const showInputComponent = (index) => {
   const inputElement = document.querySelectorAll('.card__input')[index];
@@ -16,15 +17,12 @@ const addClickListener = () => {
   );
 };
 
-const addCardComponent = (
-  { url, title, body, tag, published_date },
-  container
-) => {
+const addCardComponent = ({ url, title, body, tag, published_date }) => {
   const isExpired = getExpiration(published_date);
   const cardElement = isExpired
     ? ''
     : `
-         <div class="card">
+        <div class="card">
           <div class="card__header">
             <a href="${url}" rel="external" class="card__header__title">${title}</a>
             <button class="card__header__button" >
@@ -42,23 +40,36 @@ const addCardComponent = (
           </ul>
         </div>
       `;
-  container.innerHTML += cardElement;
+
+  return cardElement;
+};
+
+const addSectionComponent = (item) => {
+  let cardElement = '';
+  item.urls?.forEach((url) => {
+    cardElement += addCardComponent(url);
+  });
+
+  const sectionElement = `
+    <section class="section">
+      <h1 class="section-title">${item.title.toUpperCase()}</h1>
+      <div>
+        ${cardElement}
+      </div>
+    </section>
+
+      `;
+  htmlBody.innerHTML += sectionElement;
 };
 
 fetch('./data/urls.json')
   .then((response) => response.json())
-  .then(({ brands, classes, support }) => {
-    const brandsContainer = document.querySelector('.brands');
-    const classesContainer = document.querySelector('.classes');
-    const supportContainer = document.querySelector('.support');
-
-    brands?.map((item) => addCardComponent(item, brandsContainer));
-    classes?.map((item) => addCardComponent(item, classesContainer));
-    support?.map((item) => addCardComponent(item, supportContainer));
+  .then((data) => {
+    for (let key in data) {
+      addSectionComponent(data[key]);
+    }
   })
-  .then(() => {
-    addClickListener();
-  })
+  .then(() => addClickListener())
   .catch((error) => console.log(error));
 
 console.log('%c Background by Dwinawan ', 'background: #222; color: #bada55');
