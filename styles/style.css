@@ -52,6 +52,25 @@ body {
   opacity: 0.6;
 }
 
+.socials {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  padding: 1rem;
+}
+
+.socials__link__icon {
+  width: 42px;
+  height: 42px;
+}
+
 .section {
   display: -ms-grid;
   display: grid;
