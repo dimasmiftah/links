@@ -106,6 +106,19 @@
         "body": "Program hackathon dari CIMB Niaga dengan total hadiah 100 juta. Periode pendaftaran 27 aug - 30 sept 2021.",
         "tag": ["EVENT", "COMPETITION"],
         "published_date": "2021-09-19"
+      }
+    ]
+  },
+
+  "resources": {
+    "title": "Resources",
+    "urls": [
+      {
+        "title": "CV/Resume Resources",
+        "url": "https://dimasmiftah.notion.site/CV-Resume-Resources-b522af1e30fb4423a990ca1be2abcbbc",
+        "body": "CV/Resume yang aku pake buat daftar Magang Merdeka dan juga yang versi baru.",
+        "tag": ["RESUME", "RESOURCES"],
+        "published_date": "2025-12-04"
       },
       {
         "title": "Daddy (Dancing Buddy)",
@@ -134,50 +147,6 @@
         "body": "Server buat hang-out/diskusi dan ketemu orang-orang baru.",
         "tag": ["CHANNEL", "COMMUNITY"],
         "published_date": "2022-12-12"
-      },
-      {
-        "title": "CV/Resume Resources",
-        "url": "https://dimasmiftah.notion.site/CV-Resume-Resources-b522af1e30fb4423a990ca1be2abcbbc",
-        "body": "CV/Resume yang aku pake buat daftar Magang Merdeka dan juga yang versi baru.",
-        "tag": ["RESUME", "RESOURCES"],
-        "published_date": "2025-12-04"
-      }
-    ]
-  },
-
-  "courses": {
-    "title": "Courses",
-    "urls": [
-      {
-        "title": "Belajar Website",
-        "url": "https://kelasjagoan.com/s/m5tab5v",
-        "body": "Step by step membuat website yang bisa menghasilkan passive income secara konsisten.",
-        "tag": ["COURSE", "WEBSITE"],
-        "published_date": "2022-09-27"
-      },
-      {
-        "title": "Belajar Landing Page",
-        "url": "https://kelasjagoan.com/s/al9v4li",
-        "body": "Belajar step by step membuat landing page profesional dari dasar hingga mahir!",
-        "tag": ["COURSE", "WEBSITE"]
-      },
-      {
-        "title": "Belajar Copywriting",
-        "url": "https://kelasjagoan.com/s/zjb4y5j",
-        "body": "Bongkar tuntas ilmu copywriting; seni meningkatkan penjualan melalui media tulisan.",
-        "tag": ["COURSE", "COPYWRITING"]
-      },
-      {
-        "title": "Belajar Canva",
-        "url": "https://member.zuper.id/aff/go/dimasmiftah?i=129",
-        "body": "Bongkar rahasia jago desain konten dalam 24 jam.",
-        "tag": ["COURSE", "DESIGN"]
-      },
-      {
-        "title": "Belajar Affiliate",
-        "url": "https://member.zuper.id/aff/go/dimasmiftah?i=117",
-        "body": "Saatnya kamu hasilkan income dengan SANTAI, tanpa ribet nyetok dan kirim barang.",
-        "tag": ["COURSE", "MARKETING"]
       }
     ]
   },
