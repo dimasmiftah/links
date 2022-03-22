@@ -66,16 +66,8 @@ body {
 }
 
 .search {
-  display: flex;
   width: 100%;
-  background-color: var(--c-text);
   height: 42px;
-}
-
-.search__icon {
-  width: 28px;
-  padding: 0 0 0 1rem;
-  color: var(--c-accent);
 }
 
 .search__input {
