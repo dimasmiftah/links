@@ -24,6 +24,29 @@ body {
   background-position: top center;
 }
 
+.profile {
+  display: flex;
+  align-items: center;
+}
+
+.profile__image {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin-right: 1.5rem;
+}
+
+.profile__bio__name {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: var(--c-text);
+}
+
+.profile__bio__title {
+  color: var(--c-text);
+  opacity: 0.6;
+}
+
 .section {
   display: grid;
   grid-gap: 16px;
