@@ -1,5 +1,6 @@
 :root {
   --c-primary: #4b90e2;
+  --c-primary-dark: black;
   --c-primary-light: #f1f7fe;
   --c-secondary: #ff7c6f;
   --c-secondary-light: #ffedeb;
@@ -35,8 +36,8 @@ body {
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
 }
 
 .profile__image {
@@ -62,11 +63,11 @@ body {
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
   -webkit-box-pack: justify;
-  -ms-flex-pack: justify;
-  justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
   border: 1px solid rgba(255, 255, 255, 0.1);
   padding: 0.5rem 1rem;
 }
@@ -124,7 +125,8 @@ body {
 .card__image {
   width: 100%;
   height: 120px;
-  object-fit: cover;
+  -o-object-fit: cover;
+     object-fit: cover;
 }
 
 .card__header {
@@ -133,14 +135,14 @@ body {
   display: flex;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
-  -ms-flex-direction: row;
-  flex-direction: row;
+      -ms-flex-direction: row;
+          flex-direction: row;
   -webkit-box-pack: justify;
-  -ms-flex-pack: justify;
-  justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
   -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
 }
 
 .card__header__title {
@@ -178,6 +180,43 @@ body {
 
 .card__input:focus {
   outline: none;
+}
+
+.card__actions {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.card__actions__button {
+  width: 100%;
+  height: -webkit-fit-content;
+  height: -moz-fit-content;
+  height: fit-content;
+  border: none;
+  background: none;
+  cursor: pointer;
+  border: 1px solid var(--c-primary-light);
+  text-decoration: none;
+  color: var(--c-primary-dark);
+  background: var(--c-primary-light);
+  text-align: center;
+  font-size: 14px;
+  padding: 4px;
+}
+
+.card__actions__button:first-child {
+  margin-right: 0.5rem;
 }
 
 .card__body {
