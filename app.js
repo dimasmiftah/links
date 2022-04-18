@@ -27,12 +27,23 @@ const addClickListener = () => {
   );
 };
 
-const addCardComponent = ({ url, title, body, tag, published_date }) => {
+const addCardComponent = (
+  { image = '', url, title, body, tag, published_date },
+  section
+) => {
   const isExpired = getExpiration(published_date);
   const cardElement = isExpired
     ? ''
     : `
         <div class="card">
+          ${
+            section === 'Products'
+              ? `<img
+          src="${image}"
+          class="card__image"
+        />`
+              : ''
+          }
           <div class="card__header">
             <a href="${url}" rel="external" class="card__header__title">${title}</a>
             <button class="card__header__button" >
@@ -57,7 +68,7 @@ const addCardComponent = ({ url, title, body, tag, published_date }) => {
 const addSectionComponent = (item) => {
   let cardElement = '';
   item.urls?.forEach((url) => {
-    cardElement += addCardComponent(url);
+    cardElement += addCardComponent(url, item.title);
   });
 
   const sectionElement = `
