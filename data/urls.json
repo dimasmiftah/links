@@ -135,18 +135,32 @@
     "title": "Products",
     "urls": [
       {
-        "title": "Keyboard Royal Kludge G68 / RK68 / RK837 RGB",
+        "title": "[Shopee] Keyboard Royal Kludge G68 / RK68 / RK837 RGB",
         "url": "https://shope.ee/5zm4aYMS2b",
         "body": "[Link Shopee] Keyboard budget terbaik di kelasnya",
         "tag": ["SETUP", "SHOPEE"],
         "published_date": "2032-04-14"
       },
       {
-        "title": "Keyboard Royal Kludge G68 / RK68 / RK837 RGB",
+        "title": "[Tokopedia] Keyboard Royal Kludge G68 / RK68 / RK837 RGB",
         "url": "https://tokopedia.link/GOLvcSiUdpb",
         "body": "[Link Tokopedia] Keyboard budget terbaik di kelasnya",
         "tag": ["SETUP", "TOKOPEDIA"],
         "published_date": "2032-04-14"
+      },
+      {
+        "title": "[Shopee] Monitor LED Philips 279E1EW 27\" IPS 4K 75Hz HDMI DP USB-C 15w White",
+        "url": "https://shope.ee/6KP0MKwuau",
+        "body": "[Link Shopee] Monitor 4K USB-C termurah + warna putih",
+        "tag": ["SETUP", "SHOPEE"],
+        "published_date": "2032-04-18"
+      },
+      {
+        "title": "[Tokopedia]  Monitor LED Philips 279E1EW 27\" IPS 4K 75Hz HDMI DP USB-C 15w White",
+        "url": "https://tokopedia.link/cU2nqFrvjpb",
+        "body": "[Link Tokopedia] Monitor 4K USB-C termurah + warna putih",
+        "tag": ["SETUP", "TOKOPEDIA"],
+        "published_date": "2032-04-18"
       }
     ]
   },
