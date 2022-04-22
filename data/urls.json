@@ -142,11 +142,47 @@
     "title": "Products",
     "urls": [
       {
+        "image": "https://user-images.githubusercontent.com/32232332/164760131-8b9bd555-415c-4ef7-a717-c05b427c6383.JPG",
+        "title": "Apple MacBook Pro M1 Chip 2020 13\"",
+        "shopee": "https://shope.ee/1VJs5WHCCG",
+        "tokopedia": "https://tokopedia.link/ZgkSezrhrpb",
+        "body": "Recommended untuk seluruh kalangan kecuali gamers.",
+        "tag": ["SETUP", "PRODUCT"],
+        "published_date": "2032-04-22"
+      },
+      {
+        "image": "https://user-images.githubusercontent.com/32232332/164758502-312ecb70-87ab-4969-83fe-ec63f202cc40.png",
+        "title": "UNEED USB Hub Type C to HDMI Thunderbolt 3 USB 3.0 PD 60W - UUH204C",
+        "shopee": "https://shope.ee/AoUU99gcS",
+        "tokopedia": "https://tokopedia.link/SyjGItZgrpb",
+        "body": "Dongle mantap.",
+        "tag": ["SETUP", "PRODUCT"],
+        "published_date": "2032-04-22"
+      },
+      {
+        "image": "https://user-images.githubusercontent.com/32232332/164755400-8d98f5d8-8921-4da1-a6b4-c8b9c8d6df1d.jpeg",
+        "title": "Baseus Car Bluetooth Receiver Aux 3.5MM Wireless Audio Receiver",
+        "shopee": "https://shope.ee/V4GCTjOa",
+        "tokopedia": "https://tokopedia.link/rP6kPzbfrpb",
+        "body": "Bisa untuk mobil, speakter, dan headphone.",
+        "tag": ["SETUP", "PRODUCT"],
+        "published_date": "2032-04-22"
+      },
+      {
+        "image": "https://user-images.githubusercontent.com/32232332/163742598-bf8d23d1-7049-49f4-b7ef-b5a9ff3d7b8d.jpg",
+        "title": "Monitor LED Philips 279E1EW 27\" IPS 4K 75Hz HDMI DP USB-C 15w White",
+        "shopee": "https://shope.ee/6KP0MKwuau",
+        "tokopedia": "https://tokopedia.link/cU2nqFrvjpb",
+        "body": "Monitor 4K USB-C termurah + warna putih.",
+        "tag": ["SETUP", "PRODUCT"],
+        "published_date": "2032-04-18"
+      },
+      {
         "image": "https://user-images.githubusercontent.com/32232332/163742670-99ae8cae-4109-4fea-8bc7-849e70622438.jpeg",
         "title": "Keyboard Royal Kludge G68 / RK68 / RK837 RGB",
         "shopee": "https://shope.ee/5zm4aYMS2b",
         "tokopedia": "https://tokopedia.link/GOLvcSiUdpb",
-        "body": "Keyboard budget terbaik di kelasnya",
+        "body": "Keyboard budget terbaik di kelasnya.",
         "tag": ["SETUP", "PRODUCT"],
         "published_date": "2032-04-14"
       },
@@ -160,22 +196,13 @@
         "published_date": "2032-04-18"
       },
       {
-        "image": "https://user-images.githubusercontent.com/32232332/163742598-bf8d23d1-7049-49f4-b7ef-b5a9ff3d7b8d.jpg",
-        "title": "Monitor LED Philips 279E1EW 27\" IPS 4K 75Hz HDMI DP USB-C 15w White",
-        "shopee": "https://shope.ee/6KP0MKwuau",
-        "tokopedia": "https://tokopedia.link/cU2nqFrvjpb",
-        "body": "Monitor 4K USB-C termurah + warna putih",
+        "image": "https://user-images.githubusercontent.com/32232332/164757336-9bb82c59-a3dc-4855-bc0a-4a728b809946.png",
+        "title": "Bracket TV Monitor LED LCD Gas Spring OXIMUS ZDP1118 1118 Tilt Swivel",
+        "shopee": "https://shope.ee/401D2WuOrA",
+        "tokopedia": "https://tokopedia.link/A3rPdnjgrpb",
+        "body": "Biar monitor bisa diatur sesuka hati. Naik-turun, maju-mundur, kiri-kanan, puter-puter.",
         "tag": ["SETUP", "PRODUCT"],
-        "published_date": "2032-04-18"
-      },
-      {
-        "image": "https://user-images.githubusercontent.com/32232332/163743633-9f52eba5-d564-4485-8164-f54ae77aa52b.jpeg",
-        "title": "Aonez Meja Lipat Laptop Portable",
-        "shopee": "https://shope.ee/7euNyh5d2X",
-        "tokopedia": "https://tokopedia.link/Jtk12CTCjpb",
-        "body": "Kerja sambil rebahan. Bisa juga buat jadi foot rest.",
-        "tag": ["SETUP", "PRODUCT"],
-        "published_date": "2032-04-18"
+        "published_date": "2032-04-22"
       },
       {
         "image": "https://user-images.githubusercontent.com/32232332/163781975-e3793020-530e-4831-ac6b-c6a2f27c256f.png",
@@ -191,18 +218,18 @@
         "title": "ONEX GX3 Premium Quality Gaming Chair Kursi - Hitam",
         "shopee": "https://shope.ee/L7ueTJPn7",
         "tokopedia": "https://tokopedia.link/JfMLs5Perpb",
-        "body": "GX3 (ONEX Gaming Chair) adalah kursi gaming desain kursi balap dengan penutup kulit imitasi dan jahitan seperti serat karbon.",
+        "body": "Biar dikira YouTuber sama bocil.",
         "tag": ["SETUP", "PRODUCT"],
         "published_date": "2032-04-22"
       },
       {
-        "image": "https://user-images.githubusercontent.com/32232332/164755400-8d98f5d8-8921-4da1-a6b4-c8b9c8d6df1d.jpeg",
-        "title": "Baseus Car Bluetooth Receiver Aux 3.5MM Wireless Audio Receiver",
-        "shopee": "https://shope.ee/V4GCTjOa",
-        "tokopedia": "https://tokopedia.link/rP6kPzbfrpb",
-        "body": "Bisa untuk mobil, speakter, dan headphone.",
+        "image": "https://user-images.githubusercontent.com/32232332/163743633-9f52eba5-d564-4485-8164-f54ae77aa52b.jpeg",
+        "title": "Aonez Meja Lipat Laptop Portable",
+        "shopee": "https://shope.ee/7euNyh5d2X",
+        "tokopedia": "https://tokopedia.link/Jtk12CTCjpb",
+        "body": "Kerja sambil rebahan. Bisa juga buat jadi foot rest.",
         "tag": ["SETUP", "PRODUCT"],
-        "published_date": "2032-04-22"
+        "published_date": "2032-04-18"
       }
     ]
   },
