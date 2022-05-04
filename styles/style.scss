@@ -173,9 +173,10 @@ body {
   font-size: 14px;
   padding: 4px;
 
-  &:first-child {
-    margin-right: 0.5rem;
-  }
+  // for multiple buttons
+  // &:first-child {
+  //   margin-right: 0.5rem;
+  // }
 }
 
 .card__body {

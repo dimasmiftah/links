@@ -215,10 +215,6 @@ body {
   padding: 4px;
 }
 
-.card__actions__button:first-child {
-  margin-right: 0.5rem;
-}
-
 .card__body {
   font-weight: 400;
   font-size: 14px;
