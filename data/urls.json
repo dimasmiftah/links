@@ -256,6 +256,13 @@
     "title": "Resources",
     "urls": [
       {
+        "title": "GitHub Copilot",
+        "url": "https://copilot.github.com/",
+        "body": "Don’t fly solo.",
+        "tag": ["TOOLS", "RESOURCES"],
+        "published_date": "2025-04-18"
+      },
+      {
         "title": "Wallpaper Anime Hate-chan",
         "url": "https://user-images.githubusercontent.com/32232332/163748196-d6ebdb4c-3020-4418-bb8c-157e5537d3e6.jpeg",
         "body": "Cek wallpaper keren lain di Wallpaper Flare",
