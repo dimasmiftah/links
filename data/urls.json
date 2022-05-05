@@ -3,6 +3,13 @@
     "title": "Featured",
     "urls": [
       {
+        "title": "GitHub Copilot",
+        "url": "https://copilot.github.com/",
+        "body": "Don’t fly solo.",
+        "tag": ["TOOLS", "RESOURCES"],
+        "published_date": "2025-04-18"
+      },
+      {
         "title": "Download Binar Academy",
         "url": "https://j5478.app.link/BinarBackendDimas",
         "body": "Belajar macem-macem skill digital secara gratis. Kita bisa belajar Backend Engineering dari awam sampe paham.",
@@ -255,13 +262,6 @@
   "resources": {
     "title": "Resources",
     "urls": [
-      {
-        "title": "GitHub Copilot",
-        "url": "https://copilot.github.com/",
-        "body": "Don’t fly solo.",
-        "tag": ["TOOLS", "RESOURCES"],
-        "published_date": "2025-04-18"
-      },
       {
         "title": "Wallpaper Anime Hate-chan",
         "url": "https://user-images.githubusercontent.com/32232332/163748196-d6ebdb4c-3020-4418-bb8c-157e5537d3e6.jpeg",
