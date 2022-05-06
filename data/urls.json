@@ -3,6 +3,13 @@
     "title": "Featured",
     "urls": [
       {
+        "title": "Beasiswa Pendidikan Dicoding",
+        "url": "https://dicoding.id/beasiswa",
+        "body": "Belajar Google Cloud Gratis.",
+        "tag": ["COURSE", "FREE"],
+        "published_date": "2022-05-06"
+      },
+      {
         "title": "GitHub Copilot",
         "url": "https://copilot.github.com/",
         "body": "Don’t fly solo.",
