@@ -3,6 +3,13 @@
     "title": "Featured",
     "urls": [
       {
+        "title": "Paket Hosting Pelajar Niagahoster",
+        "url": "https://bit.ly/promopelajarNH-dimas",
+        "body": "Promo Hosting Pelajar 35% + 50% dengan kode PELAJAR50. Udah termasuk free domain 1 tahun.",
+        "tag": ["PRODUCT", "HOSTING"],
+        "published_date": "2022-06-15"
+      },
+      {
         "title": "SPRINTMATE #LevelUp Camp : Boost Your UI/UX Skill",
         "url": "https://bit.ly/LevelUp-Camp1",
         "body": "Program intensif 6 minggu belajar ui/ux design. Worth it!",
@@ -128,13 +135,7 @@
         "tag": ["COMMUNITY", "RECRUITMENT"],
         "published_date": "2022-02-19"
       },
-      {
-        "title": "Beli Hosting di Niagahoster",
-        "url": "https://bit.ly/dimasmiftahNH02",
-        "body": "Beli hosting dengan data center terbaik, up to 80% discount (gratis domain). Pakai kode DIMASMIFTAH untuk +10% discount.",
-        "tag": ["PRODUCT", "HOSTING"],
-        "published_date": "2022-01-25"
-      },
+
       {
         "title": "Webinar Grand Opening Bootcamp CAMP404",
         "url": "https://www.temanacara.com/B10",
