@@ -3,6 +3,13 @@
     "title": "Featured",
     "urls": [
       {
+        "title": "UI/UX Design Mastery dari Skilvul",
+        "url": "http://bit.ly/skilvul-dimas",
+        "body": "Belajar mulai dari Pengenalan UI/UX dan Figma  sampe bikin Study Case dan Persiapan Melamar Kerja.",
+        "tag": ["UI/UX", "COURSE"],
+        "published_date": "2022-06-24"
+      },
+      {
         "title": "Paket Hosting Pelajar Niagahoster",
         "url": "https://bit.ly/promopelajarNH-dimas",
         "body": "Promo Hosting Pelajar 35% + 50% dengan kode PELAJAR50. Udah termasuk free domain 1 tahun.",
