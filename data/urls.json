@@ -3,6 +3,27 @@
     "title": "Featured",
     "urls": [
       {
+        "title": "UI/UX Design Mastery dari Skilvul",
+        "url": "http://bit.ly/skilvul-dimas",
+        "body": "Belajar mulai dari Pengenalan UI/UX dan Figma  sampe bikin Study Case dan Persiapan Melamar Kerja.",
+        "tag": ["UI/UX", "COURSE"],
+        "published_date": "2022-06-25"
+      },
+      {
+        "title": "Paket Hosting Pelajar Niagahoster",
+        "url": "https://bit.ly/promopelajarNH-dimas",
+        "body": "Promo Hosting Pelajar 35% + 50% dengan kode PELAJAR50. Udah termasuk free domain 1 tahun.",
+        "tag": ["PRODUCT", "HOSTING"],
+        "published_date": "2022-06-15"
+      },
+      {
+        "title": "SPRINTMATE #LevelUp Camp : Boost Your UI/UX Skill",
+        "url": "https://bit.ly/LevelUp-Camp1",
+        "body": "Program intensif 6 minggu belajar ui/ux design. Worth it!",
+        "tag": ["UI/UX", "COURSE"],
+        "published_date": "2022-06-08"
+      },
+      {
         "title": "Daftar Beasiswa Bootcamp Full Stack Bangalore",
         "url": "https://www.instagram.com/p/Cd75LX3NcqM",
         "body": "Belajar Full Stack Data Science dan Web Developer selama 5 bulan, gratis!",
@@ -15,6 +36,13 @@
         "body": "Ada lebih dari 20 kelas gratis bersertifikat buat kamu.",
         "tag": ["FREE", "COURSE"],
         "published_date": "2022-05-25"
+      },
+      {
+        "title": "Fresh Graduate Academy",
+        "url": "https://digitalent.kominfo.go.id/",
+        "body": "Program sertifikasi tingkat global, gratis dari KOMINFO.",
+        "tag": ["CERTIFICATION", "COURSE"],
+        "published_date": "2022-06-11"
       },
       {
         "title": "Daftar Beasiswa IDCamp 2022",
@@ -114,13 +142,7 @@
         "tag": ["COMMUNITY", "RECRUITMENT"],
         "published_date": "2022-02-19"
       },
-      {
-        "title": "Beli Hosting di Niagahoster",
-        "url": "https://bit.ly/dimasmiftahNH02",
-        "body": "Beli hosting dengan data center terbaik, up to 80% discount (gratis domain). Pakai kode DIMASMIFTAH untuk +10% discount.",
-        "tag": ["PRODUCT", "HOSTING"],
-        "published_date": "2022-01-25"
-      },
+
       {
         "title": "Webinar Grand Opening Bootcamp CAMP404",
         "url": "https://www.temanacara.com/B10",
@@ -183,6 +205,15 @@
   "products": {
     "title": "Products",
     "urls": [
+      {
+        "image": "https://user-images.githubusercontent.com/32232332/175759298-47a5c734-2bd7-43e3-aae1-b855aacfd43d.jpeg",
+        "title": "Controller SHOOTER II WGP13 Gamepad Joystick USB",
+        "shopee": "https://shope.ee/AUGK6VbSMr",
+        "tokopedia": "",
+        "body": "Bisa wired dan dongle, untuk Android, Windows, dan PS3",
+        "tag": ["SETUP", "PRODUCT"],
+        "published_date": "2032-06-25"
+      },
       {
         "image": "https://user-images.githubusercontent.com/32232332/164760131-8b9bd555-415c-4ef7-a717-c05b427c6383.JPG",
         "title": "Apple MacBook Pro M1 Chip 2020 13\"",
