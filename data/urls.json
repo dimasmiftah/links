@@ -1,4 +1,15 @@
 {
+  "support": {
+    "title": "Support",
+    "urls": [
+      {
+        "title": "Traktir dimas beli kopi.",
+        "url": "https://saweria.co/dimasmiftah",
+        "body": "Makasih udah support!",
+        "tag": ["SUPPORT", "TRAKTIR"]
+      }
+    ]
+  },
   "featured": {
     "title": "Featured",
     "urls": [
@@ -376,18 +387,6 @@
         "body": "Server buat hang-out/diskusi dan ketemu orang-orang baru.",
         "tag": ["CHANNEL", "COMMUNITY"],
         "published_date": "2022-12-12"
-      }
-    ]
-  },
-
-  "support": {
-    "title": "Support",
-    "urls": [
-      {
-        "title": "Makasih udah support!",
-        "url": "https://saweria.co/dimasmiftah",
-        "body": "Traktir dimas beli kopi.",
-        "tag": ["SUPPORT", "TRAKTIR"]
       }
     ]
   }
