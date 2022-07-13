@@ -340,14 +340,21 @@
     "title": "Resources",
     "urls": [
       {
-        "title": "GitHub Bio Link",
+        "title": "GitHub - Quantor Website",
+        "url": "https://github.com/dimasmiftah/quantor-creative-agency",
+        "body": "An awesome company profile website of Quantor - Creative Agency.",
+        "tag": ["PROJECTS", "RESOURCES"],
+        "published_date": "2025-07-13"
+      },
+      {
+        "title": "GitHub - Bio Link",
         "url": "https://github.com/dimasmiftah/links/",
         "body": "Website for links in bio.",
         "tag": ["PROJECTS", "RESOURCES"],
         "published_date": "2025-07-8"
       },
       {
-        "title": "GitHub Led Scroller",
+        "title": "GitHub - Led Scroller",
         "url": "https://github.com/dimasmiftah/led-scroller/",
         "body": "💡 Led Scroller website for TikTok trends",
         "tag": ["PROJECTS", "RESOURCES"],
