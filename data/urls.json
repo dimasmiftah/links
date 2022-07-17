@@ -340,6 +340,13 @@
     "title": "Resources",
     "urls": [
       {
+        "title": "GitHub - CSS Media Query",
+        "url": "https://gist.github.com/dimasmiftah/faf0ddae07f1814989b73c2aa945bb5a",
+        "body": "Breakpoint yang biasa aku pake.",
+        "tag": ["GIST", "RESOURCES"],
+        "published_date": "2025-07-17"
+      },
+      {
         "title": "GitHub - Quantor Website",
         "url": "https://github.com/dimasmiftah/quantor-creative-agency",
         "body": "An awesome company profile website of Quantor - Creative Agency.",
