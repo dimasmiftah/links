@@ -14,6 +14,13 @@
     "title": "Featured",
     "urls": [
       {
+        "title": "harisenin.com - Bootcamp Belajar Coding Terjangkau",
+        "url": "http://harisenin.com/school",
+        "body": "Buat kamu yang pengen belajar ngoding tapi bingung mulai dari mana.",
+        "tag": ["CODING", "COURSE"],
+        "published_date": "2022-07-20"
+      },
+      {
         "title": "UI/UX Design Mastery dari Skilvul",
         "url": "http://bit.ly/skilvul-dimas",
         "body": "Belajar mulai dari Pengenalan UI/UX dan Figma  sampe bikin Study Case dan Persiapan Melamar Kerja.",
