@@ -1,18 +1,15 @@
 {
-  "support": {
-    "title": "Support",
-    "urls": [
-      {
-        "title": "Traktir dimas beli kopi.",
-        "url": "https://saweria.co/dimasmiftah",
-        "body": "Makasih udah support!",
-        "tag": ["SUPPORT", "TRAKTIR"]
-      }
-    ]
-  },
+  
   "featured": {
     "title": "Featured",
     "urls": [
+      {
+        "title": "harisenin.com - Bootcamp Belajar Coding Terjangkau",
+        "url": "http://harisenin.com/school",
+        "body": "Buat kamu yang pengen belajar ngoding tapi bingung mulai dari mana.",
+        "tag": ["CODING", "COURSE"],
+        "published_date": "2022-07-20"
+      },
       {
         "title": "UI/UX Design Mastery dari Skilvul",
         "url": "http://bit.ly/skilvul-dimas",
@@ -340,6 +337,13 @@
     "title": "Resources",
     "urls": [
       {
+        "title": "GitHub - CSS Media Query",
+        "url": "https://gist.github.com/dimasmiftah/faf0ddae07f1814989b73c2aa945bb5a",
+        "body": "Breakpoint yang biasa aku pake.",
+        "tag": ["GIST", "RESOURCES"],
+        "published_date": "2025-07-17"
+      },
+      {
         "title": "GitHub - Quantor Website",
         "url": "https://github.com/dimasmiftah/quantor-creative-agency",
         "body": "An awesome company profile website of Quantor - Creative Agency.",
@@ -401,6 +405,17 @@
         "body": "Server buat hang-out/diskusi dan ketemu orang-orang baru.",
         "tag": ["CHANNEL", "COMMUNITY"],
         "published_date": "2022-12-12"
+      }
+    ]
+  },
+  "support": {
+    "title": "Support",
+    "urls": [
+      {
+        "title": "Traktir dimas beli kopi.",
+        "url": "https://saweria.co/dimasmiftah",
+        "body": "Makasih udah support!",
+        "tag": ["SUPPORT", "TRAKTIR"]
       }
     ]
   }
