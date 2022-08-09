@@ -1,8 +1,14 @@
 {
-  
   "featured": {
     "title": "Featured",
     "urls": [
+      {
+        "title": "Daftar GarudaHacks 3.0",
+        "url": "https://tinyurl.com/gh3reg",
+        "body": "Hackathon terbesar di Asia Tenggara dengan total hadiah 300 juta.",
+        "tag": ["EVENT", "COMPETITION"],
+        "published_date": "2022-08-09"
+      },
       {
         "title": "harisenin.com - Bootcamp Belajar Coding Terjangkau",
         "url": "http://harisenin.com/school",
