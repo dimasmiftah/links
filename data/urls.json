@@ -3,6 +3,13 @@
     "title": "Featured",
     "urls": [
       {
+        "title": "ITBOX - Solusi Pintar Belajar Digital",
+        "url": "https://itbox.id/",
+        "body": "Kamu bisa belajar Data Science, Cyber Security, dan skill lainnya yg emang lagi dibutuhin di industri.",
+        "tag": ["COURSE", "CODING"],
+        "published_date": "2022-08-18"
+      },
+      {
         "title": "Job Portal Lengkap dan Aman - KitaLulus",
         "url": "https://3pkita.page.link/tt-dimasmiftah?utm_source=tiktok&utm_medium=aon&utm_campaign=dimasmiftah",
         "body": "Kamu bisa daftar magang dengan gampang sesuai role yang kamu mau.",
