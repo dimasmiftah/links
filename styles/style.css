@@ -145,7 +145,8 @@ body {
           align-items: center;
 }
 
-.card__header__title {
+.card__header__title,
+h2 {
   font-weight: bold;
   font-size: 18px;
   letter-spacing: 0.3px;

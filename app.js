@@ -40,7 +40,6 @@ const addCardComponent = (
   },
   section
 ) => {
-  console.log(image, shopee, tokopedia, url, title);
   const isExpired = getExpiration(published_date);
   const cardElement = isExpired
     ? ''
@@ -50,6 +49,7 @@ const addCardComponent = (
             section === 'Products'
               ? `<img
           src="${image}"
+          alt="${title}"
           class="card__image"
         /> <div class="card__actions">
         <a href="${shopee}" target="_blank" rel="sponsored" class="card__actions__button">Shopee</a>
@@ -59,7 +59,7 @@ const addCardComponent = (
           }
           <div class="card__header">
             <a href="${url || shopee}" target="_blank"
-        rel="sponsored" class="card__header__title">${title}</a>
+        rel="sponsored" class="card__header__title"><h2>${title}</h2></a>
             <button class="card__header__button" >
               <svg class="card__header__button__icon" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8.684 13.342C8.886 12.938 9 12.482 9 12c0-.482-.114-.938-.316-1.342m0 2.684a3 3 0 110-2.684m0 2.684l6.632 3.316m-6.632-6l6.632-3.316m0 0a3 3 0 105.367-2.684 3 3 0 00-5.367 2.684zm0 9.316a3 3 0 105.368 2.684 3 3 0 00-5.368-2.684z"></path></svg>
             </button>
