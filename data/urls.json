@@ -3,6 +3,13 @@
     "title": "Featured",
     "urls": [
       {
+        "title": "Skilvul Full-Stack UI/UX Design",
+        "url": "https://bit.ly/skilvul-uiux-dimas",
+        "body": "Program pelatihan intensif selama 12 minggu yang bakal ngajarin kita bikin real-world case project dari dasar dengan didampingi sama mentor profesional.",
+        "tag": ["COURSE", "DESIGN"],
+        "published_date": "2022-09-22"
+      },
+      {
         "title": "ITBOX - Solusi Pintar Belajar Digital",
         "url": "https://itbox.id/",
         "body": "Kamu bisa belajar Data Science, Cyber Security, dan skill lainnya yg emang lagi dibutuhin di industri.",
