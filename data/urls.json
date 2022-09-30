@@ -3,6 +3,13 @@
     "title": "Featured",
     "urls": [
       {
+        "title": "Daftar Bootcamp Gratis CAMP404",
+        "url": "https://www.camp404.com/reg#",
+        "body": "Ada lebih dari 20 kelas gratis bersertifikat buat kamu.",
+        "tag": ["FREE", "COURSE"],
+        "published_date": "2022-09-30"
+      },
+      {
         "title": "Daftar Bootcamp dibimbing",
         "url": "https://bit.ly/ReferralDimas",
         "body": "Jadilah salah satu talenta digital berbakat di bidang Digital Marketing, Data Science, UIUX Design, dan Web Development bersama Dibimbing.id.",
@@ -64,13 +71,6 @@
         "body": "Belajar Full Stack Data Science dan Web Developer selama 5 bulan, gratis!",
         "tag": ["FREE", "COURSE"],
         "published_date": "2022-05-26"
-      },
-      {
-        "title": "Daftar Bootcamp Gratis CAMP404",
-        "url": "https://www.camp404.com/reg#",
-        "body": "Ada lebih dari 20 kelas gratis bersertifikat buat kamu.",
-        "tag": ["FREE", "COURSE"],
-        "published_date": "2022-05-25"
       },
       {
         "title": "Fresh Graduate Academy",
