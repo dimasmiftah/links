@@ -3,18 +3,18 @@
     "title": "Featured",
     "urls": [
       {
+        "title": "Daftar Bootcamp Gratis CAMP404",
+        "url": "https://www.camp404.com/reg#",
+        "body": "Ada lebih dari 20 kelas gratis bersertifikat buat kamu.",
+        "tag": ["FREE", "COURSE"],
+        "published_date": "2023-05-31"
+      },
+      {
         "title": "Overwhelmed when learning a new skill? You’re doing it wrong.",
         "url": "https://medium.com/@tywhang/overwhelmed-when-learning-a-new-skill-you-re-doing-it-wrong-f65bdccac11f",
         "body": "#READIMS Episode 1",
         "tag": ["ARTICLE", "READING"],
         "published_date": "2032-11-28"
-      },
-      {
-        "title": "Daftar Bootcamp Gratis CAMP404",
-        "url": "https://www.camp404.com/reg#",
-        "body": "Ada lebih dari 20 kelas gratis bersertifikat buat kamu.",
-        "tag": ["FREE", "COURSE"],
-        "published_date": "2022-11-28"
       },
       {
         "title": "Daftar Bangkit 2023",
