@@ -38,7 +38,8 @@ const addCardComponent = (
     tag,
     published_date,
   },
-  section
+  section,
+  index
 ) => {
   const isExpired = getExpiration(published_date);
   const cardElement = isExpired
@@ -48,14 +49,16 @@ const addCardComponent = (
           ${
             section === 'Products'
               ? `<img
-          src="${image}"
-          alt="${title}"
-          class="card__image"
-          loading="lazy"
-        /> <div class="card__actions">
-        <a href="${shopee}" target="_blank" rel="sponsored" class="card__actions__button">Shopee</a>
-        <a href="${tokopedia}" target="_blank" rel="sponsored" class="card__actions__button" hidden>Tokopedia</a>
-      </div>`
+                  src="${image}"
+                  alt="${title}"
+                  class="card__image"
+                  loading=${index === 0 ? 'eager' : 'lazy'}
+                  fetchpriority=${index === 0 ? 'high' : 'low'}
+                />
+                <div class="card__actions">
+                  <a href="${shopee}" target="_blank" rel="sponsored" class="card__actions__button">Shopee</a>
+                  <a href="${tokopedia}" target="_blank" rel="sponsored" class="card__actions__button" hidden>Tokopedia</a>
+                </div>`
               : ''
           }
           <div class="card__header">
@@ -85,8 +88,8 @@ const addCardComponent = (
 
 const addSectionComponent = (item) => {
   let cardElement = '';
-  item.urls?.forEach((url) => {
-    cardElement += addCardComponent(url, item.title);
+  item.urls?.forEach((url, index) => {
+    cardElement += addCardComponent(url, item.title, index);
   });
 
   const sectionElement = `
