@@ -263,54 +263,9 @@
     "title": "Products",
     "urls": [
       {
-        "image": "https://user-images.githubusercontent.com/32232332/175759298-47a5c734-2bd7-43e3-aae1-b855aacfd43d.jpeg",
-        "title": "Controller SHOOTER II WGP13 Gamepad Joystick USB",
-        "shopee": "https://shope.ee/AUGK6VbSMr",
-        "tokopedia": "https://tokopedia.link/wKaYsHFzhsb",
-        "body": "Bisa wired dan dongle, untuk Android, Windows, dan PS3",
-        "tag": ["SETUP", "PRODUCT"],
-        "published_date": "2032-06-25"
-      },
-      {
-        "image": "https://user-images.githubusercontent.com/32232332/164760131-8b9bd555-415c-4ef7-a717-c05b427c6383.JPG",
-        "title": "Apple MacBook Pro M1 Chip 2020 13\"",
-        "shopee": "https://shope.ee/3fQMH9TrXc",
-        "tokopedia": "https://tokopedia.link/f3bKC6Ozhsb",
-        "body": "Recommended untuk seluruh kalangan kecuali gamers.",
-        "tag": ["SETUP", "PRODUCT"],
-        "published_date": "2032-04-22"
-      },
-      {
-        "image": "https://user-images.githubusercontent.com/32232332/164758502-312ecb70-87ab-4969-83fe-ec63f202cc40.png",
-        "title": "UNEED USB Hub Type C to HDMI Thunderbolt 3 USB 3.0 PD 60W - UUH204C",
-        "shopee": "https://shope.ee/AoUU99gcS",
-        "tokopedia": "https://tokopedia.link/SyjGItZgrpb",
-        "body": "Dongle mantap.",
-        "tag": ["SETUP", "PRODUCT"],
-        "published_date": "2032-04-22"
-      },
-      {
-        "image": "https://user-images.githubusercontent.com/32232332/164761816-4b231c1b-b762-4a9c-99d1-6a3646c842e9.png",
-        "title": "dbE DJ200 High Quality DJ Headphone",
-        "shopee": "https://shope.ee/30AfU0Ce12",
-        "tokopedia": "https://tokopedia.link/t8pvftEirpb",
-        "body": "Headphone keren yg worth it banget. Pake Audio Receiver di bawah biar wireless.",
-        "tag": ["SETUP", "PRODUCT"],
-        "published_date": "2032-04-22"
-      },
-      {
-        "image": "https://user-images.githubusercontent.com/32232332/164755400-8d98f5d8-8921-4da1-a6b4-c8b9c8d6df1d.jpeg",
-        "title": "Baseus Car Bluetooth Receiver Aux 3.5MM Wireless Audio Receiver",
-        "shopee": "https://shope.ee/V4GCTjOa",
-        "tokopedia": "https://tokopedia.link/rP6kPzbfrpb",
-        "body": "Bisa untuk mobil, speakter, dan headphone.",
-        "tag": ["SETUP", "PRODUCT"],
-        "published_date": "2032-04-22"
-      },
-      {
         "image": "https://user-images.githubusercontent.com/32232332/163742598-bf8d23d1-7049-49f4-b7ef-b5a9ff3d7b8d.jpg",
         "title": "Monitor LED Philips 279E1EW 27\" IPS 4K 75Hz HDMI DP USB-C 15w White",
-        "shopee": "https://shope.ee/8UVc2oVX6Z",
+        "shopee": "https://shope.ee/20VXo0RETb",
         "tokopedia": "https://tokopedia.link/cU2nqFrvjpb",
         "body": "Monitor 4K USB-C termurah + warna putih.",
         "tag": ["SETUP", "PRODUCT"],
@@ -342,42 +297,6 @@
         "body": "Biar monitor bisa diatur sesuka hati. Naik-turun, maju-mundur, kiri-kanan, puter-puter.",
         "tag": ["SETUP", "PRODUCT"],
         "published_date": "2032-04-22"
-      },
-      {
-        "image": "https://user-images.githubusercontent.com/32232332/163781975-e3793020-530e-4831-ac6b-c6a2f27c256f.png",
-        "title": "Meja IKEA Lagkapten/Adils 120x60 cm",
-        "shopee": "https://shope.ee/X3v1jj6H",
-        "tokopedia": "https://tokopedia.link/D6supLr2jpb",
-        "body": "Meja kuat dan ringan yang affordable dari IKEA.",
-        "tag": ["SETUP", "PRODUCT"],
-        "published_date": "2032-04-18"
-      },
-      {
-        "image": "https://user-images.githubusercontent.com/32232332/178092448-5a38577a-4caa-4e6e-941a-38be4df0d120.jpeg",
-        "title": "Kursi Gaming Murah Kualitas Premium",
-        "shopee": "https://shope.ee/5pSNqJRli5",
-        "tokopedia": "https://tokopedia.link/JfMLs5Perpb",
-        "body": "Biar dikira YouTuber sama bocil.",
-        "tag": ["SETUP", "PRODUCT"],
-        "published_date": "2032-04-22"
-      },
-      {
-        "image": "https://user-images.githubusercontent.com/32232332/163743633-9f52eba5-d564-4485-8164-f54ae77aa52b.jpeg",
-        "title": "Aonez Meja Lipat Laptop Portable",
-        "shopee": "https://shope.ee/7euNyh5d2X",
-        "tokopedia": "https://tokopedia.link/Jtk12CTCjpb",
-        "body": "Kerja sambil rebahan. Bisa juga buat jadi foot rest.",
-        "tag": ["SETUP", "PRODUCT"],
-        "published_date": "2032-04-18"
-      },
-      {
-        "image": "https://user-images.githubusercontent.com/32232332/170086324-aba82694-7cf0-4920-9d68-d08596f186ae.JPG",
-        "title": "Ulanzi Vijim VL120 RGB",
-        "shopee": "https://shope.ee/q50IWLiFM",
-        "tokopedia": "https://tokopedia.link/M5VPGXUzhsb",
-        "body": "Lampu portable sergabuna, kapasitas batrenya gede.",
-        "tag": ["SETUP", "PRODUCT"],
-        "published_date": "2032-05-24"
       }
     ]
   },
@@ -461,7 +380,7 @@
     "title": "Support",
     "urls": [
       {
-        "title": "Traktir dimas beli kopi.",
+        "title": "Traktir Dimas beli kopi.",
         "url": "https://saweria.co/dimasmiftah",
         "body": "Makasih udah support!",
         "tag": ["SUPPORT", "TRAKTIR"]
