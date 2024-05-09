@@ -3,6 +3,13 @@
     "title": "Featured",
     "urls": [
       {
+        "title": "GitHub | YouTube Play All Button",
+        "url": "https://github.com/dimasmiftah/youtube-play-all-button",
+        "body": "",
+        "tag": ["TOOLS", "EXTENSION"],
+        "published_date": "2034-05-09"
+      },
+      {
         "title": "ZilLearn | Kursus Bersertifikat Gratis",
         "url": "https://www.zillearn.id",
         "body": "Beasiswa belajar 6 bulan gratis. Tinggal daftar aja!",
@@ -10,7 +17,7 @@
         "published_date": "2024-03-29"
       },
       {
-        "title": "Typedream | Webiste Builder",
+        "title": "Typedream | Website Builder",
         "url": "https://typedream.com/?via=dimasmiftah",
         "body": "Bikin website tanpa ngoding.",
         "tag": ["TOOLS", "FREE"],
@@ -319,28 +326,28 @@
     "title": "Resources",
     "urls": [
       {
-        "title": "GitHub - CSS Media Query",
+        "title": "GitHub | CSS Media Query",
         "url": "https://gist.github.com/dimasmiftah/faf0ddae07f1814989b73c2aa945bb5a",
         "body": "Breakpoint yang biasa aku pake.",
         "tag": ["GIST", "RESOURCES"],
         "published_date": "2025-07-17"
       },
       {
-        "title": "GitHub - Quantor Website",
+        "title": "GitHub | Quantor Website",
         "url": "https://github.com/dimasmiftah/quantor-creative-agency",
         "body": "An awesome company profile website of Quantor - Creative Agency.",
         "tag": ["PROJECTS", "RESOURCES"],
         "published_date": "2025-07-13"
       },
       {
-        "title": "GitHub - Bio Link",
+        "title": "GitHub | Bio Link",
         "url": "https://github.com/dimasmiftah/links/",
         "body": "Website for links in bio.",
         "tag": ["PROJECTS", "RESOURCES"],
         "published_date": "2025-07-8"
       },
       {
-        "title": "GitHub - Led Scroller",
+        "title": "GitHub | Led Scroller",
         "url": "https://github.com/dimasmiftah/led-scroller/",
         "body": "💡 Led Scroller website for TikTok trends",
         "tag": ["PROJECTS", "RESOURCES"],
