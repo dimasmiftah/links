@@ -57,7 +57,7 @@ const addCardComponent = (
                 />
                 <div class="card__actions">
                   <a href="${shopee}" target="_blank" rel="sponsored" class="card__actions__button">Shopee</a>
-                  <a href="${tokopedia}" target="_blank" rel="sponsored" class="card__actions__button" hidden>Tokopedia</a>
+                  <a href="${tokopedia}" target="_blank" rel="sponsored" class="card__actions__button">Tokopedia</a>
                 </div>`
               : ''
           }
