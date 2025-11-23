@@ -7,21 +7,27 @@
         "url": "https://discord.gg/TAugeM6Bgf",
         "body": "Be part of the dimsgang!",
         "tag": ["CHANNEL", "COMMUNITY"],
-        "published_date": "2050-11-23"
+        "published_date": "2035-11-23"
+      },
+      {
+        "title": "Saweria",
+        "url": "https://saweria.co/dimasmiftah",
+        "body": "Traktir dimas beli kopi",
+        "tag": ["SUPPORT", "TRAKTIR"]
       },
       {
         "title": "Referensi UI/UX Indonesia",
         "url": "https://docs.google.com/spreadsheets/d/1bEN2QsWw9x__iGQ9eVQffT5UuimiISQqxJ3_1GZjSsU/edit#gid=0",
         "body": "",
         "tag": ["RESOURCES", "FREE"],
-        "published_date": "2034-05-13"
+        "published_date": "2024-05-13"
       },
       {
         "title": "GitHub | YouTube Play All Button",
         "url": "https://github.com/dimasmiftah/youtube-play-all-button",
         "body": "",
         "tag": ["TOOLS", "EXTENSION"],
-        "published_date": "2034-05-09"
+        "published_date": "2024-05-09"
       },
       {
         "title": "ZilLearn | Kursus Bersertifikat Gratis",
@@ -35,7 +41,7 @@
         "url": "https://typedream.com/?via=dimasmiftah",
         "body": "Bikin website tanpa ngoding.",
         "tag": ["TOOLS", "FREE"],
-        "published_date": "2033-12-12"
+        "published_date": "2023-12-12"
       },
       {
         "title": "Coba Kelas Programming Gratis dari Algorithmics",
@@ -56,7 +62,7 @@
         "url": "https://medium.com/@tywhang/overwhelmed-when-learning-a-new-skill-you-re-doing-it-wrong-f65bdccac11f",
         "body": "#READIMS Episode 1",
         "tag": ["ARTICLE", "READING"],
-        "published_date": "2032-11-28"
+        "published_date": "2022-11-28"
       },
       {
         "title": "Daftar Bangkit 2023",
@@ -293,58 +299,6 @@
       }
     ]
   },
-
-  "products": {
-    "title": "Products",
-    "urls": [
-      {
-        "image": "https://user-images.githubusercontent.com/32232332/163742598-bf8d23d1-7049-49f4-b7ef-b5a9ff3d7b8d.jpg",
-        "title": "Monitor LED Philips 279E1EW 27\" IPS 4K 75Hz HDMI DP USB-C 15w White",
-        "shopee": "https://shope.ee/20VXo0RETb",
-        "tokopedia": "https://tokopedia.link/XIlMjZIQAJb",
-        "body": "Monitor 4K USB-C termurah + warna putih.",
-        "tag": ["SETUP", "PRODUCT"],
-        "published_date": "2032-04-18"
-      },
-      {
-        "image": "https://user-images.githubusercontent.com/32232332/163742670-99ae8cae-4109-4fea-8bc7-849e70622438.jpeg",
-        "title": "Keyboard Royal Kludge G68 / RK68 / RK837 RGB",
-        "shopee": "https://shope.ee/5zm4aYMS2b",
-        "tokopedia": "https://tokopedia.link/GOLvcSiUdpb",
-        "body": "Keyboard budget terbaik di kelasnya.",
-        "tag": ["SETUP", "PRODUCT"],
-        "published_date": "2032-04-14"
-      },
-      {
-        "image": "https://user-images.githubusercontent.com/32232332/163744212-571aea91-4b7c-43d5-a899-04325186ba93.png",
-        "title": "Logitech MX Anywhere 3 Mouse Wireless Mouse",
-        "shopee": "https://shope.ee/9oysZ5e4um",
-        "tokopedia": "https://tokopedia.link/PLz4yayDjpb",
-        "body": "Mouse yang didesain untuk bekerja dari mana saja, mulai dari kantor di rumah hingga kafe sampai ruang santai di bandara.",
-        "tag": ["SETUP", "PRODUCT"],
-        "published_date": "2032-04-18"
-      },
-      {
-        "image": "https://user-images.githubusercontent.com/32232332/164757336-9bb82c59-a3dc-4855-bc0a-4a728b809946.png",
-        "title": "Bracket TV Monitor LED LCD Gas Spring OXIMUS ZDP1118 1118 Tilt Swivel",
-        "shopee": "https://shope.ee/89sldiE3Nq",
-        "tokopedia": "https://tokopedia.link/LRByryVQAJb",
-        "body": "Biar monitor bisa diatur sesuka hati. Naik-turun, maju-mundur, kiri-kanan, puter-puter.",
-        "tag": ["SETUP", "PRODUCT"],
-        "published_date": "2032-04-22"
-      },
-      {
-        "image": "https://github.com/dimasmiftah/newsful/assets/32232332/1bb615e5-0c70-4e35-bb0e-79dddd7f2406",
-        "title": "Inbex Overhead Tripod",
-        "shopee": "https://shope.ee/5fSntdKUM4",
-        "tokopedia": "https://tokopedia.link/Gi2MhrRRAJb",
-        "body": "Biasa kupake buat live TikTok, dicapit ke meja.",
-        "tag": ["SETUP", "PRODUCT"],
-        "published_date": "2032-05-14"
-      }
-    ]
-  },
-
   "resources": {
     "title": "Resources",
     "urls": [
@@ -413,14 +367,53 @@
       }
     ]
   },
-  "support": {
-    "title": "Support",
+  "products": {
+    "title": "Products",
     "urls": [
       {
-        "title": "Traktir Dimas beli kopi.",
-        "url": "https://saweria.co/dimasmiftah",
-        "body": "Makasih udah support!",
-        "tag": ["SUPPORT", "TRAKTIR"]
+        "image": "https://user-images.githubusercontent.com/32232332/163742598-bf8d23d1-7049-49f4-b7ef-b5a9ff3d7b8d.jpg",
+        "title": "Monitor LED Philips 279E1EW 27\" IPS 4K 75Hz HDMI DP USB-C 15w White",
+        "shopee": "https://shope.ee/20VXo0RETb",
+        "tokopedia": "https://tokopedia.link/XIlMjZIQAJb",
+        "body": "Monitor 4K USB-C termurah + warna putih.",
+        "tag": ["SETUP", "PRODUCT"],
+        "published_date": "2032-04-18"
+      },
+      {
+        "image": "https://user-images.githubusercontent.com/32232332/163742670-99ae8cae-4109-4fea-8bc7-849e70622438.jpeg",
+        "title": "Keyboard Royal Kludge G68 / RK68 / RK837 RGB",
+        "shopee": "https://shope.ee/5zm4aYMS2b",
+        "tokopedia": "https://tokopedia.link/GOLvcSiUdpb",
+        "body": "Keyboard budget terbaik di kelasnya.",
+        "tag": ["SETUP", "PRODUCT"],
+        "published_date": "2032-04-14"
+      },
+      {
+        "image": "https://user-images.githubusercontent.com/32232332/163744212-571aea91-4b7c-43d5-a899-04325186ba93.png",
+        "title": "Logitech MX Anywhere 3 Mouse Wireless Mouse",
+        "shopee": "https://shope.ee/9oysZ5e4um",
+        "tokopedia": "https://tokopedia.link/PLz4yayDjpb",
+        "body": "Mouse yang didesain untuk bekerja dari mana saja, mulai dari kantor di rumah hingga kafe sampai ruang santai di bandara.",
+        "tag": ["SETUP", "PRODUCT"],
+        "published_date": "2032-04-18"
+      },
+      {
+        "image": "https://user-images.githubusercontent.com/32232332/164757336-9bb82c59-a3dc-4855-bc0a-4a728b809946.png",
+        "title": "Bracket TV Monitor LED LCD Gas Spring OXIMUS ZDP1118 1118 Tilt Swivel",
+        "shopee": "https://shope.ee/89sldiE3Nq",
+        "tokopedia": "https://tokopedia.link/LRByryVQAJb",
+        "body": "Biar monitor bisa diatur sesuka hati. Naik-turun, maju-mundur, kiri-kanan, puter-puter.",
+        "tag": ["SETUP", "PRODUCT"],
+        "published_date": "2032-04-22"
+      },
+      {
+        "image": "https://github.com/dimasmiftah/newsful/assets/32232332/1bb615e5-0c70-4e35-bb0e-79dddd7f2406",
+        "title": "Inbex Overhead Tripod",
+        "shopee": "https://shope.ee/5fSntdKUM4",
+        "tokopedia": "https://tokopedia.link/Gi2MhrRRAJb",
+        "body": "Biasa kupake buat live TikTok, dicapit ke meja.",
+        "tag": ["SETUP", "PRODUCT"],
+        "published_date": "2032-05-14"
       }
     ]
   }
