@@ -3,6 +3,13 @@
     "title": "Featured",
     "urls": [
       {
+        "title": "Join Discord",
+        "url": "https://discord.gg/TAugeM6Bgf",
+        "body": "Be part of the dimsgang!",
+        "tag": ["CHANNEL", "COMMUNITY"],
+        "published_date": "2050-11-23"
+      },
+      {
         "title": "Referensi UI/UX Indonesia",
         "url": "https://docs.google.com/spreadsheets/d/1bEN2QsWw9x__iGQ9eVQffT5UuimiISQqxJ3_1GZjSsU/edit#gid=0",
         "body": "",
@@ -402,13 +409,6 @@
         "url": "https://dimasmiftah.notion.site/tutor-spotify-18e05824f4624e22a4354d9358efc65f",
         "body": "Spotify Premium Pro Max Special Edition",
         "tag": ["TUTORIAL", "APPS"],
-        "published_date": "2022-12-12"
-      },
-      {
-        "title": "Join Discord Kita",
-        "url": "https://discord.gg/cHpsN4CWhu",
-        "body": "Server buat hang-out/diskusi dan ketemu orang-orang baru.",
-        "tag": ["CHANNEL", "COMMUNITY"],
         "published_date": "2022-12-12"
       }
     ]
