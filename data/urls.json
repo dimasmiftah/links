@@ -3,17 +3,25 @@
     "title": "Featured",
     "urls": [
       {
+        "title": "Daftar UC Online Learning",
+        "url": "https://online.ciputra.ac.id/",
+        "body": "Upgrade Gelar Tanpa Harus Berhenti Bekerja. 100% Online.",
+        "tag": ["UNIVERSITY", "PROGRAM"],
+        "published_date": "2026-03-20"
+      },
+      {
         "title": "Join Discord",
         "url": "https://discord.gg/TAugeM6Bgf",
         "body": "Be part of the dimsgang!",
         "tag": ["CHANNEL", "COMMUNITY"],
-        "published_date": "2035-11-23"
+        "published_date": "2015-11-23"
       },
       {
         "title": "Saweria",
         "url": "https://saweria.co/dimasmiftah",
         "body": "Traktir dimas beli kopi",
-        "tag": ["SUPPORT", "TRAKTIR"]
+        "tag": ["SUPPORT", "TRAKTIR"],
+        "published_date": "2024-05-13"
       },
       {
         "title": "Referensi UI/UX Indonesia",
